@@ -1,18 +1,13 @@
-# Welcome to your Lovable project
+# Welcome to your Atta Ur Rehman project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/d142e55c-1d7b-4ca8-a2a4-f34114e760ca
+**URL**:  https://atta-ur-rehman14.netlify.app/
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/d142e55c-1d7b-4ca8-a2a4-f34114e760ca) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
