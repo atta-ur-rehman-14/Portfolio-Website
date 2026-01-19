@@ -1,4 +1,4 @@
-# Welcome to your Atta Ur Rehman project
+# Welcome to your project
 
 ## Project info
 
@@ -57,7 +57,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/d142e55c-1d7b-4ca8-a2a4-f34114e760ca) and click on Share -> Publish.
+Simply open [netlify]( [https://www.netlify.com/ ])) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
