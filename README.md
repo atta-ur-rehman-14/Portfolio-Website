@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**:  https://atta-ur-rehman14.netlify.app/
+**URL**:  https://atta-ur-rehman-14.netlify.app/
 
 ## How can I edit this code?
 
